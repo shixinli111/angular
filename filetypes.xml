@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="LS03" type="Stylus" />
+    </extensionMap>
+  </component>
+</application>
