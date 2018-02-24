@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/zhaoboyan/myShow4AngularJs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shixinli111/News-Publishing-System.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\" />
+    <option name="cloneParentDir" value="E:\大四\毕设\webstorm项目" />
   </component>
 </application>
